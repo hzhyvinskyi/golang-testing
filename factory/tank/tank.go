@@ -1,4 +1,4 @@
-package tank_factory
+package tank
 
 type ITank interface {
 	getName() string

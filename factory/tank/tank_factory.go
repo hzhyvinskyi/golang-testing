@@ -1,4 +1,4 @@
-package tank_factory
+package tank
 
 import "errors"
 

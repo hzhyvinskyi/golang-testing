@@ -1,4 +1,4 @@
-package tank_factory
+package tank
 
 type m1 struct {
 	tank
